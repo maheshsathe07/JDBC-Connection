@@ -1,0 +1,8 @@
+Steps to make JDBC Connection :
+1. Import Packages
+2. Load the Driver
+3. Register the Driver
+4. Create the Connection
+5. Create a statement
+6. Execute the Statement
+7. Close the Connection
